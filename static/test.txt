@@ -1,1 +1,1 @@
-this is test text
+This is to test the power of cmd "git commit -a -m "msg" "
