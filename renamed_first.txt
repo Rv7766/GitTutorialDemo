@@ -1,3 +1,0 @@
-This is the 1st version of my project
-
-I want this line to go in the 2nd commit

@@ -1,0 +1,5 @@
+This is the 1st version of my project
+
+I want this line to go in the 2nd commit
+
+This is to test if staged will this file restore itself to the last commit state
