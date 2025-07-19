@@ -1,0 +1,13 @@
+rv@rv:~/Desktop/Study/Git_Tutorials/mypandas$ git status
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+nothing to commit, working tree clean
+
+
+ANSWER:-
+
+
+I was in the working directory inside the vscode internal terminal.
